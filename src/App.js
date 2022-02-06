@@ -30,7 +30,7 @@ const App = () => {
 
         }
     }
-if (tog==true){
+if (tog===true){
 
 
     return (
